@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://mysteryjoker.org/</loc>
+    <lastmod>2025-12-19T10:21:10.002Z</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mysteryjoker.org/"/>
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://mysteryjoker.org/"/>
+  </url>
+  <url>
+    <loc>https://mysteryjoker.org/terms/</loc>
+    <lastmod>2025-12-19T10:21:10.002Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mysteryjoker.org/terms/"/>
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://mysteryjoker.org/terms/"/>
+  </url>
+  <url>
+    <loc>https://mysteryjoker.org/review/</loc>
+    <lastmod>2025-12-19T10:21:10.002Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mysteryjoker.org/review/"/>
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://mysteryjoker.org/review/"/>
+  </url>
+  <url>
+    <loc>https://mysteryjoker.org/responsible/</loc>
+    <lastmod>2025-12-19T10:21:10.002Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mysteryjoker.org/responsible/"/>
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://mysteryjoker.org/responsible/"/>
+  </url>
+  <url>
+    <loc>https://mysteryjoker.org/privacy/</loc>
+    <lastmod>2025-12-19T10:21:10.002Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mysteryjoker.org/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://mysteryjoker.org/privacy/"/>
+  </url>
+  <url>
+    <loc>https://mysteryjoker.org/free/</loc>
+    <lastmod>2025-12-19T10:21:10.002Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mysteryjoker.org/free/"/>
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://mysteryjoker.org/free/"/>
+  </url>
+  <url>
+    <loc>https://mysteryjoker.org/demo/</loc>
+    <lastmod>2025-12-19T10:21:10.002Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mysteryjoker.org/demo/"/>
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://mysteryjoker.org/demo/"/>
+  </url>
+  <url>
+    <loc>https://mysteryjoker.org/cookie/</loc>
+    <lastmod>2025-12-19T10:21:10.002Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mysteryjoker.org/cookie/"/>
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://mysteryjoker.org/cookie/"/>
+  </url>
+  <url>
+    <loc>https://mysteryjoker.org/bonus/</loc>
+    <lastmod>2025-12-19T10:21:10.002Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mysteryjoker.org/bonus/"/>
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://mysteryjoker.org/bonus/"/>
+  </url>
+  <url>
+    <loc>https://mysteryjoker.org/app/</loc>
+    <lastmod>2025-12-19T10:21:10.002Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mysteryjoker.org/app/"/>
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://mysteryjoker.org/app/"/>
+  </url>
+  <url>
+    <loc>https://mysteryjoker.org/about/</loc>
+    <lastmod>2025-12-19T10:21:10.002Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mysteryjoker.org/about/"/>
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://mysteryjoker.org/about/"/>
+  </url>
+</urlset>
